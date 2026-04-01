@@ -10,6 +10,7 @@ import {
 import TransactionCard from "../components/TransactionCard";
 import mockData from "../mockData/mockTransaction.json";
 import { Transaction } from "../types/transaction";
+
 const mockTransactions = mockData as Transaction[];
 
 function Home() {

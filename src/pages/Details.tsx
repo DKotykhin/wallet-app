@@ -1,7 +1,9 @@
 import React, { useMemo } from "react";
 import { useParams, useNavigate } from "react-router-dom";
+
 import mockData from "../mockData/mockTransaction.json";
 import { Transaction } from "../types/transaction";
+
 const mockTransactions = mockData as Transaction[];
 
 function Details() {
