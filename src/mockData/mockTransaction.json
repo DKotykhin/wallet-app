@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "type": "credit",
+    "amount": 45.67,
+    "name": "Amazon",
+    "description": "Online shopping",
+    "date": "2026-03-30T14:23:00",
+    "status": "completed",
+    "user": "John Doe",
+    "icon": "faAmazon"
+  },
+  {
+    "id": 2,
+    "type": "payment",
+    "amount": 120.0,
+    "name": "Netflix",
+    "description": "Monthly subscription fee for streaming service with a wide variety of movies and TV shows.",
+    "date": "2024-06-02T09:05:00",
+    "status": "pending",
+    "icon": "faMicrosoft"
+  },
+  {
+    "id": 3,
+    "type": "payment",
+    "amount": 9.99,
+    "name": "Spotify",
+    "description": "Monthly subscription fee for music streaming service with a vast library of songs and playlists.",
+    "date": "2024-05-28T18:47:00",
+    "status": "completed",
+    "user": "Jane Smith",
+    "icon": "faSpotify"
+  },
+  {
+    "id": 4,
+    "type": "payment",
+    "amount": 1500.0,
+    "name": "Paycheck",
+    "description": "Monthly salary deposit from employer for work performed during the month.",
+    "date": "2024-06-01T08:00:00",
+    "status": "completed",
+    "user": "John Doe",
+    "icon": "faPaypal"
+  },
+  {
+    "id": 5,
+    "type": "credit",
+    "amount": 75.25,
+    "name": "Apple Store",
+    "description": "Purchase of electronics and accessories from Apple retail store.",
+    "date": "2024-05-30T11:30:00",
+    "status": "failed",
+    "user": "Jane Smith",
+    "icon": "faApple"
+  },
+  {
+    "id": 6,
+    "type": "credit",
+    "amount": 200.0,
+    "name": "Google Ads",
+    "description": "Monthly advertising expenses for online marketing campaigns on Google platform.",
+    "date": "2024-06-03T16:15:00",
+    "status": "pending",
+    "icon": "faGoogle"
+  },
+  {
+    "id": 7,
+    "type": "payment",
+    "amount": 50.0,
+    "name": "Stripe",
+    "description": "Payment processing fees for online transactions through Stripe payment gateway.",
+    "date": "2024-05-29T20:55:00",
+    "status": "completed",
+    "user": "John Doe",
+    "icon": "faStripe"
+  }
+]
